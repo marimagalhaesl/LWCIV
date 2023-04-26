@@ -1,0 +1,12 @@
+.container {
+    background-color: black;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.title {
+    color: red;
+}
